@@ -1,4 +1,4 @@
-
+#From S80-100 are scenarios with login functionality and Google queries
 import pytest
 import time
 import json
